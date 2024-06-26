@@ -1,0 +1,11 @@
+#img
+{
+    width: 400px;
+    object-fit: contain;
+}
+
+#TitleDiv
+{
+    display: flex;
+    gap: 10px;
+}
